@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Denis -- Duck
+    Matvey -- Void
 
 # THANKS
 
-    <name>
+    Wait, but why!?
 
 # TECHNOLOGY COLOPHON
 
