@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7421fd78-a5b9-455a-bb94-4b0bbe008652" name="Default Changelist" comment="Config" />
+    <list default="true" id="7421fd78-a5b9-455a-bb94-4b0bbe008652" name="Default Changelist" comment="Config">
+      <change afterPath="$PROJECT_DIR$/source/_posts/DuckVoid.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.landscape.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/eyo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hello-world.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/cactus" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1uSC1ASeEvBwu6nAbhrJSvPoPuI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -54,6 +61,8 @@
       <workItem from="1624761914487" duration="2389000" />
       <workItem from="1624767073785" duration="269000" />
       <workItem from="1625076788096" duration="3172000" />
+      <workItem from="1625113811485" duration="1220000" />
+      <workItem from="1625116133969" duration="1227000" />
     </task>
     <task id="LOCAL-00001" summary="HTML5 Boilerplate">
       <created>1624649940117</created>

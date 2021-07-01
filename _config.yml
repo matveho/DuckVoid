@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Duckvoid
+title: "Duckvoid"
 subtitle: ''
 description: 'What?'
 keywords:
-author: anonymous
+author: "anonymous"
 language: en
 timezone: 'America/Vancouver'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://duckvoid.xyz/
-permalink: :category/:title/
+url: 'https://duckvoid.xyz/'
+permalink: ':category/:title/'
 permalink_defaults:
 pretty_urls:
   trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
