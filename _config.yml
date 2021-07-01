@@ -105,7 +105,26 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: cactus
-
+theme_config:
+  colorscheme: dark
+  nav:
+    home: /
+    about: /about/
+    writings: /archives/
+    projects: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+    search: /search/
+  posts_overview:
+    show_all_posts: true
+  social_links:
+    github: https://www.youtube.com/watch?v=k1BneeJTDcU
+    twitter: https://www.youtube.com/watch?v=k1BneeJTDcU
+    Name: Voiture
+  copyright:
+    start_year: 2020
+    end_year: 2021
+  disqus:
+    enabled: false
+    shortname: SITENAME
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
