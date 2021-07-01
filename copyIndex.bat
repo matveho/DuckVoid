@@ -1,0 +1,1 @@
+copy source\index.html public

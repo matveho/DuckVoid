@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7421fd78-a5b9-455a-bb94-4b0bbe008652" name="Default Changelist" comment="Config">
+    <list default="true" id="7421fd78-a5b9-455a-bb94-4b0bbe008652" name="Default Changelist" comment="Some New Stuffs">
+      <change afterPath="$PROJECT_DIR$/copyIndex.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Feature-demo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/welcome.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/escapables.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/DuckVoid.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/DuckVoid.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hello-world.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,9 @@
       <workItem from="1624767073785" duration="269000" />
       <workItem from="1625076788096" duration="3172000" />
       <workItem from="1625113811485" duration="1220000" />
-      <workItem from="1625116133969" duration="4715000" />
+      <workItem from="1625116133969" duration="6729000" />
+      <workItem from="1625163181795" duration="3417000" />
+      <workItem from="1625167707878" duration="1464000" />
     </task>
     <task id="LOCAL-00001" summary="HTML5 Boilerplate">
       <created>1624649940117</created>
@@ -85,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625084420411</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Some New Stuffs">
+      <created>1625127497268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625127497268</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +118,7 @@
     <MESSAGE value="HTML5 Boilerplate" />
     <MESSAGE value="Port old site" />
     <MESSAGE value="Config" />
-    <option name="LAST_COMMIT_MESSAGE" value="Config" />
+    <MESSAGE value="Some New Stuffs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some New Stuffs" />
   </component>
 </project>

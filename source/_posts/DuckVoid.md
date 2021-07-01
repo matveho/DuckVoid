@@ -26,3 +26,6 @@ and there should be an optimized use for other subdirs
 SHOULD HTML BE ORIGINATED IN SOURCE OR PUBLIC? IS A TEMPLATE APPLICABLE?
 
 FTPSync --> hexo deploy
+
+I've installed hexagon
+https://hexo.io/plugins/index.html
