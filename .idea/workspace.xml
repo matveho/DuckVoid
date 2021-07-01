@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7421fd78-a5b9-455a-bb94-4b0bbe008652" name="Default Changelist" comment="Config">
-      <change afterPath="$PROJECT_DIR$/source/_posts/DuckVoid.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.landscape.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/eyo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/DuckVoid.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/DuckVoid.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hello-world.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
       <workItem from="1624767073785" duration="269000" />
       <workItem from="1625076788096" duration="3172000" />
       <workItem from="1625113811485" duration="1220000" />
-      <workItem from="1625116133969" duration="1227000" />
+      <workItem from="1625116133969" duration="4715000" />
     </task>
     <task id="LOCAL-00001" summary="HTML5 Boilerplate">
       <created>1624649940117</created>

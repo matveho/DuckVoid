@@ -29,6 +29,13 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+  - "css/*"
+  - "doc/*"
+  - "fonts/*"
+  - "img/*"
+  - "js/*"
+  - "node_modules/**/**/**/**/*" #Does 'any' mean "any"? https://hexo.io/docs/configuration.html
+  - "*"
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -102,4 +109,11 @@ theme: cactus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: ftpsync
+  host: ftp.simplybraided.ca
+  user: admin@duckvoid.xyz
+  pass: matveyp00p00
+  remote: /
+  port:  21
+  connections: 1
+  verbose: true
