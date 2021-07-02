@@ -7,7 +7,7 @@ title: "Duckvoid"
 subtitle: ''
 description: 'What?'
 keywords:
-author: "anonymous"
+author: "duckvoid"
 language: en
 timezone: 'America/Vancouver'
 
@@ -27,7 +27,6 @@ tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
-i18n_dir: :lang
 skip_render:
   - "css/*"
   - "doc/*"
@@ -69,7 +68,7 @@ prismjs:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 10
+  per_page: 0
   order_by: -date
 
 # Category & Tag
@@ -104,35 +103,18 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: cactus
+theme: main
 theme_config:
   colorscheme: dark
-  nav:
-    home: /
-    about: /about/
-    writings: /archives/
-    projects: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-    search: /search/
   posts_overview:
     show_all_posts: true
   social_links:
     github: https://www.youtube.com/watch?v=k1BneeJTDcU
     twitter: https://www.youtube.com/watch?v=k1BneeJTDcU
-    Name: Voiture
+    mail: https://www.youtube.com@watch?v=k1BneeJTDcU
   copyright:
-    start_year: 2020
+    start_year:
     end_year: 2021
   disqus:
     enabled: false
     shortname: SITENAME
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ftpsync
-  host: ftp.simplybraided.ca
-  user: admin@duckvoid.xyz
-  pass: matveyp00p00
-  remote: /
-  port:  21
-  connections: 1
-  verbose: true
