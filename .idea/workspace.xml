@@ -4,20 +4,15 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7421fd78-a5b9-455a-bb94-4b0bbe008652" name="Default Changelist" comment="Config">
-      <change afterPath="$PROJECT_DIR$/digital-portfolio-witticism.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fnc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/Meta.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/main" afterDir="false" />
+    <list default="true" id="7421fd78-a5b9-455a-bb94-4b0bbe008652" name="Default Changelist" comment="Hexo">
+      <change afterPath="$PROJECT_DIR$/source/_drafts/Void-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_drafts/Void.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_drafts/Void/PP-Prototyping.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_drafts/Void/Project.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scaffolds/post.md" beforeDir="false" afterPath="$PROJECT_DIR$/scaffolds/post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Duckvoid.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Duckvoid.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/cactus" beforeDir="false" afterPath="$PROJECT_DIR$/themes/cactus" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/cactus/source/images/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/cactus/source/images/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/cactus/source/images/favicon-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/cactus/source/images/favicon-192x192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/cactus/source/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/themes/cactus/source/images/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/cactus/source/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/cactus/source/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/DuckVoid.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/DuckVoid.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/main" beforeDir="false" afterPath="$PROJECT_DIR$/themes/main" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +79,8 @@
       <workItem from="1625116133969" duration="6729000" />
       <workItem from="1625163181795" duration="3417000" />
       <workItem from="1625167707878" duration="13434000" />
-      <workItem from="1625206324578" duration="4534000" />
+      <workItem from="1625206324578" duration="5294000" />
+      <workItem from="1625297189347" duration="3591000" />
     </task>
     <task id="LOCAL-00001" summary="HTML5 Boilerplate">
       <created>1624649940117</created>
@@ -128,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625178380768</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Hexo">
+      <created>1625254694458</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1625254694458</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +156,7 @@
     <MESSAGE value="Some New Stuffs" />
     <MESSAGE value="Update" />
     <MESSAGE value="Config" />
-    <option name="LAST_COMMIT_MESSAGE" value="Config" />
+    <MESSAGE value="Hexo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hexo" />
   </component>
 </project>
