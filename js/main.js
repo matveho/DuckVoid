@@ -1,3 +1,6 @@
+
+
+// PREV
 function smoothScroll(elem) {
   document.querySelector(elem).scrollIntoView({
     behavior: 'smooth'
@@ -7,6 +10,7 @@ function smoothScroll(elem) {
 function randomIntFromInterval(min, max) {
   return Math.floor(Math.random() * (max - min + 1) + min);
 }
+
 function specialSeed(varPrefix, varCount) {
   var seed = varPrefix + ('0' + (randomIntFromInterval(0, varCount-1).toString())).slice(-2);
   var varActive = varPrefix + 'active';

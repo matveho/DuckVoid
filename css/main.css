@@ -2,6 +2,10 @@
 --- GENERAL STYLES
 */
 
+canvas {
+  display: block;
+}
+
 :root {
   --color-background: var(--color-background-dark);
   --color-background-dark: #101010;
