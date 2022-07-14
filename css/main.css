@@ -2,13 +2,18 @@
 --- GENERAL STYLES
 */
 
-canvas {
-  display: block;
+
+#main {
+  position: absolute;
+  top: 0%;
+  z-index: -10;
 }
+
+
 
 :root {
   --color-background: var(--color-background-dark);
-  --color-background-dark: #101010;
+  --color-background-dark: #000000;/*#101010;*/
   --color-gradient-active: unset;
   --color-gradient-00: #21d4fd, #b721ff;
   --color-gradient-01: #f9d423, #f83600;
@@ -35,6 +40,8 @@ html::-webkit-scrollbar {
 }
 body {
   background-color: var(--color-background);
+  margin: 0px;
+  height: 100%;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-family-heading);
@@ -51,7 +58,7 @@ header, footer {
   align-items: center;
   color: #fff;
   display: flex;
-  height: 50vh;
+  height: 20vh;
   justify-content: center;
   padding: 0 2em;
 }

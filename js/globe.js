@@ -13,7 +13,7 @@ globe = new ENCOM.Globe(window.innerWidth, window.innerHeight - (main.clientTop 
     maxMarkers: 4,
     viewAngle: 0.1
 });
-document.getElementById('details').appendChild(globe.domElement);
+document.getElementById('main').appendChild(globe.domElement);
 
 function animate() {
     if (globe) {
@@ -24,10 +24,11 @@ function animate() {
 let initGlobe = () => {
     globe.init();
     animate();
+    console.log(window.location.host);
     fetch('https://ip-api.io/json').then(r => r.text()).then(r => {
         let loc = JSON.parse(r);
         globe.addMarker(loc.latitude, loc.longitude, loc.ip);
-        fetch('https://ip-api.io/json/209.182.233.230').then(r => r.text()).then(r => {
+        fetch('https://ip-api.io/json/mc.duckvoid.xyz').then(r => r.text()).then(r => {
             let loc2 = JSON.parse(r);
             globe.addMarker(loc2.latitude, loc2.longitude, loc2.ip, Math.abs(loc.lon - loc2.lon) > 25);
         });
@@ -52,7 +53,7 @@ let initGlobe = () => {
     globe.addConstellation(constellation, opts);
 }
 window.addEventListener('resize', () => {
-    let h = window.innerHeight - (main.clientTop + main.clientHeight);
+    let h = window.innerHeight //- (main.clientTop + main.clientHeight);
     globe.camera.aspect = window.innerWidth / h;
     globe.camera.updateProjectionMatrix();
     globe.renderer.setSize(window.innerWidth, h);
